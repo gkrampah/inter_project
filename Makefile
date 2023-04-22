@@ -7,4 +7,8 @@ format:
 lint:
 	pylint --disable=R,C script_download.py
 
-all: install format lint
+test:
+	python -m pytest -vv test_dummy_script.py
+
+all: 
+	install format lint test
