@@ -1,7 +1,7 @@
 CHANNELS := conda-forge bioconda
 install:
 	conda install --file requirements.txt $(foreach channel,$(CHANNELS),-c $(channel))
-	pip install pylint pytest pytest-cov
+	pip install pylint pytest pytest-cov black
 
 format:
 	black *.py
