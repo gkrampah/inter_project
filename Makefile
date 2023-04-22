@@ -1,5 +1,6 @@
+CHANNELS := conda-forge bioconda
 install:
-	conda install --file requirements.txt
+	conda install -y --file requirements.txt $(foreach channel,$(CHANNELS),-c $(channel))
 
 format:
 	black *.py
