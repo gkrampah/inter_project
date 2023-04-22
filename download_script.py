@@ -37,5 +37,5 @@ def download_data_file_dataframe():
             file_.write(message_body)
 
 
-if __name__ == "__main__":
-    download_data_file_dataframe()
+# if __name__ == "__main__":
+# download_data_file_dataframe()
