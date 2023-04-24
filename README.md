@@ -7,7 +7,7 @@
 5. I created a continuous integration pipeline using github action using some dummy scripts for testing (this is just to demonstrate how the CI work in practice). This reposition has all the information needed to reproduce the analysis
 
 # Data type
-The data is a json formatted data with dictionary. In the jupyter notebook, I showed the observation metadata and values.
+The data is a json formatted data with dictionary. In the jupyter notebook, I showed the observation metadata and values. The data was issued by a government instition with a stationary detector in Belgium
 
 # Map visualization of measurement
 Using matplotlib and folium, I made plots of daily variation of NO$_2$ in West-Vlaanderen and displayed this on the map. 
