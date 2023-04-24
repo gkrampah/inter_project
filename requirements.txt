@@ -136,7 +136,6 @@ pcre=8.45=h295c915_0
 pexpect=4.8.0=pyhd3eb1b0_3
 pickleshare=0.7.5=pyhd3eb1b0_1003
 pillow=9.4.0=py311h6a678d5_0
-pip=23.1.1=pypi_0
 platformdirs=2.5.2=py311h06a4308_0
 pluggy=1.0.0=py311h06a4308_1
 ply=3.11=py311h06a4308_0
