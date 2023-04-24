@@ -6,11 +6,11 @@ import boto3
 def download_data_file_dataframe():
     """downloads the data in the sqs queue using boto3"""
     # Set up AWS credentials
-    aws_access_key_id = " "
-    aws_secret_access_key = " "
+    aws_access_key_id = "removed for security but saved as environment variable "
+    aws_secret_access_key = "removed for security but saved as environment variable "
 
     # Connect to SQS queue
-    queue_url = "https://sqs.eu-west-1.amazonaws.com/287820185021/openaq-godwin"
+    queue_url = "removed for security but saved as environment variable"
     sqs = boto3.client(
         "sqs",
         aws_access_key_id=aws_access_key_id,
