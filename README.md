@@ -16,5 +16,11 @@ Using matplotlib and folium, I made plots of daily variation of NO$_2$ in West-V
 
 It can be view properly using the [link](https://nbviewer.org/github/gkrampah/inter_project/blob/main/DataAnalysis.ipynb) 
 
+# Creating and writing data to MySql database
+Scrren shot of the data in the database
+
+![dataMinded_img](https://user-images.githubusercontent.com/65491585/235886531-6962dc33-142b-42a5-a150-43ba6bf33ec2.png)
+
+
 # Next step will be discussed in a presentation
 
