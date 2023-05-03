@@ -21,6 +21,9 @@ Scrren shot of the data in the database
 
 ![dataMinded_img](https://user-images.githubusercontent.com/65491585/235886531-6962dc33-142b-42a5-a150-43ba6bf33ec2.png)
 
+# Dashboard made with Dash and Plotly to visualize data from MySql database
+
+![dash_img](https://user-images.githubusercontent.com/65491585/235962331-01b492fd-e3a1-420e-b778-f98eac4576f0.png)
 
 # Next step will be discussed in a presentation
 
